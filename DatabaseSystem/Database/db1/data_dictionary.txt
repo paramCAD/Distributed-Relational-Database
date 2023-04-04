@@ -1,0 +1,2 @@
+TABLES	 <xx> 	COLUMNS
+user1  <xx>  username varchar(255)  <x> userid int  <x> PRIMARY_KEY(userid)  <x> ;

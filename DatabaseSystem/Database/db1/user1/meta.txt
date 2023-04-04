@@ -1,0 +1,2 @@
+username <xx> userid primarykey <xx> 
+varchar(255) <xx> int <xx> 
